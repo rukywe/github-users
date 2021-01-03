@@ -1,3 +1,10 @@
+A simple react application that can search and display users from github. 
+
+#Live Code Deployed on netlify 
+-https://naughty-shannon-0dcbce.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
